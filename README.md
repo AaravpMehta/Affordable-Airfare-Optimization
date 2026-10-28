@@ -2,9 +2,9 @@ Affordable Airfare Optimization
 
 Overview
 
-Air travel can be expensive, and airlines must balance affordable ticket prices with the need to remain profitable.
+Air travel can be expensive for a lot of passengers, and airlines must balance affordable ticket prices while akso remaining profitable.
 
-This project explores how data analysis, demand forecasting, and pricing optimization can help identify strategies for making air travel more affordable while maintaining airline profitability.
+This project of mine explores how data analysis, demand forecasting, and pricing optimization can help in identifying strategies for making air travel more affordable for the people while also maintaining and maybe even increasing airline profitability.
 
 The biggest Objectives of this project are-
 
