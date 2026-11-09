@@ -1,0 +1,15 @@
+{
+    "route": "JFK-LAX",
+    "capacity": 180,
+    "booking_horizon_days": 30,
+    "fare_classes": {
+        "low": {
+            "price": 150,
+            "expected_demand": 120
+        },
+        "high": {
+            "price": 400,
+            "expected_demand": 50
+        }
+    }
+}
